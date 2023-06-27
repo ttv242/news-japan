@@ -127,7 +127,7 @@
         </div>
       </div>
     </div>
-    <div class="bg11">
+    <!-- <div class="bg11">
       <div class="container size-h-4 flex-c-c p-tb-15">
         <span class="f1-s-1 cl0 txt-center">
           Copyright © 2018
@@ -140,7 +140,7 @@
 
         </span>
       </div>
-    </div>
+    </div> -->
   </footer>
 
   <div class="btn-back-to-top" id="myBtn">
