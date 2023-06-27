@@ -1480,8 +1480,8 @@
             <a href="category-01.php">Đời Sống</a>
             <div class="sub-mega-menu">
                 <div class="nav flex-column nav-pills" role="tablist">
-                    <a class="nav-link active" data-toggle="pill" href="#life-1" role="tab">All</a>
-                    <a class="nav-link active" data-toggle="pill" href="#life-2" role="tab">Ẩm thực</a>
+                    <a class="nav-link active" data-toggle="pill" href="#life-0" role="tab">All</a>
+                    <a class="nav-link active" data-toggle="pill" href="#life-1" role="tab">Ẩm thực</a>
                     <a class="nav-link active" data-toggle="pill" href="#life-2" role="tab">Mẹo Vật</a>
                 
                 </div>

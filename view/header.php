@@ -51,7 +51,7 @@
       <div class="wrap-header-mobile">
 
         <div class="logo-mobile">
-          <a href="index.html"><img src="../assets/images/icons/logo-01.png" alt="IMG-LOGO"></a>
+          <a href="../modules/index.php"><img src="../assets/images/icons/logo-01.png" alt="IMG-LOGO"></a>
         </div>
 
         <div class="btn-show-menu-mobile hamburger hamburger--squeeze m-r--8">
@@ -159,7 +159,7 @@
       <div class="wrap-logo container">
 
         <div class="logo">
-          <a href="index.html"><img src="../assets/images/icons/logo-01.png" alt="LOGO"></a>
+          <a href="./index.php"><img src="../assets/images/icons/logo-01.png" alt="LOGO"></a>
         </div>
 
         <div class="banner-header">
